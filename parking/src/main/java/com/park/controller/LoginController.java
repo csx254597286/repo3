@@ -2,7 +2,6 @@ package com.park.controller;
 
 import com.park.entity.Admin;
 import com.park.service.AdminService;
-import com.park.service.impl.AdminServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
